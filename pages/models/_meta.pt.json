@@ -6,6 +6,9 @@
     "mistral-7b": "Mistral 7B",
     "gemini": "Gemini",
     "phi-2": "Phi-2",
+    "mixtral": "Mixtral",
+    "code-llama": "Code Llama",
+    "olmo": "OLMo",
     "collection": "Model Collection" 
 }
   
